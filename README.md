@@ -7,7 +7,9 @@ Real-time Communication: Utilizes Socket.io to enable real-time bidirectional co
 
 Multiple Chat Rooms: Users can join different chat rooms to communicate with specific groups of people.
 
-Simple and Intuitive Interface: The chat interface is designed to be user-friendly and straightforward.
+Isolated Conversations: Chat rooms operate independently, ensuring that conversations in one room do not affect others.
+
+Simultaneous Chats: Enjoy the flexibility of participating in multiple conversations at the same time without any cross-room interference.
 
 # Output
 1) Join and navigate through chat rooms based on your preferences with ease.
@@ -18,6 +20,11 @@ Simple and Intuitive Interface: The chat interface is designed to be user-friend
 3) Engage in real-time communication by sending messages and experiencing the chat application's responsiveness.
    
 ![Screenshot 2023-12-25 220415](https://github.com/prathmesh2121/REAL-TIME-CHAT-APP-USING-SOCKET.IO-NODEJS/assets/100065581/c034a567-7d19-41b5-947b-affe2a844e45)
+
+4)  Feel free to join multiple rooms and engage in separate conversations simultaneously.
+
+![Screenshot 2023-12-25 221753](https://github.com/prathmesh2121/REAL-TIME-CHAT-APP-USING-SOCKET.IO-NODEJS/assets/100065581/f69694bf-0300-4f49-ac4a-9c5a141eefc9)
+
 
 
 
