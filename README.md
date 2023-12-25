@@ -9,5 +9,11 @@ Multiple Chat Rooms: Users can join different chat rooms to communicate with spe
 
 Simple and Intuitive Interface: The chat interface is designed to be user-friendly and straightforward.
 
+# Output
+1) Join and navigate through chat rooms based on your preferences with ease.
+![Screenshot 2023-12-25 220051](https://github.com/prathmesh2121/REAL-TIME-CHAT-APP-USING-SOCKET.IO-NODEJS/assets/100065581/e0ad5088-26c6-42bc-8d68-a221a01009fa)
+
+
+
 # Prerequisites
 Node.js: Make sure Node.js is installed on your machine. You can download it from https://nodejs.org/.
