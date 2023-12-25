@@ -3,13 +3,13 @@
 This project is a real-time chat application built using Socket.io and Node.js. It allows users to join chat rooms, exchange messages instantly, and experience a seamless real-time communication environment.
 
 # Features
-Real-time Communication: Utilizes Socket.io to enable real-time bidirectional communication between the server and clients.
+~ Real-time Communication: Utilizes Socket.io to enable real-time bidirectional communication between the server and clients.
 
-Multiple Chat Rooms: Users can join different chat rooms to communicate with specific groups of people.
+~ Multiple Chat Rooms: Users can join different chat rooms to communicate with specific groups of people.
 
-Isolated Conversations: Chat rooms operate independently, ensuring that conversations in one room do not affect others.
+~ Isolated Conversations: Chat rooms operate independently, ensuring that conversations in one room do not affect others.
 
-Simultaneous Chats: Enjoy the flexibility of participating in multiple conversations at the same time without any cross-room interference.
+~ Simultaneous Chats: Enjoy the flexibility of participating in multiple conversations at the same time without any cross-room interference.
 
 # Output
 1) Join and navigate through chat rooms based on your preferences with ease.
