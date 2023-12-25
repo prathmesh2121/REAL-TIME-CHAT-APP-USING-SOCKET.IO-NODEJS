@@ -29,4 +29,22 @@ This project is a real-time chat application built using Socket.io and Node.js. 
 
 
 # Prerequisites
-Node.js: Make sure Node.js is installed on your machine. You can download it from https://nodejs.org/.
+
+Ensure that the following prerequisites are met before setting up and running the Real-Time Chat App:
+
+# Node.js:
+
+Make sure Node.js is installed on your machine.
+Download Node.js from https://nodejs.org/.
+
+# Express:
+
+This app utilizes the Express.js framework for building the server.
+Install Express using the following command:
+npm install express
+
+# Socket.io:
+
+Socket.io is used for real-time bidirectional communication between the server and clients.
+Install Socket.io with the following command:
+npm install socket.io
